@@ -2894,3 +2894,663 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-03.42.14:228][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.25-03.42.14:228][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.25-03.42.14:228][451]AssetCheck: /Game/ryanshouse Validating asset
+[2025.05.25-03.45.35:489][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7516.598633
+[2025.05.25-03.45.36:489][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.45.36:489][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7517.265137, Update Interval: 334.309509
+[2025.05.25-03.51.58:181][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7899.331055
+[2025.05.25-03.51.59:180][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.51.59:180][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7899.997559, Update Interval: 359.099091
+[2025.05.25-03.52.14:242][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.25-03.52.14:244][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ryanshouse' took 0.010
+[2025.05.25-03.52.14:244][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Box_18FFCFB1] ([1] browsable assets)...
+[2025.05.25-03.52.14:244][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Box_18FFCFB1]
+[2025.05.25-03.52.14:244][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/satry/Box_18FFCFB1" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-03.52.14:245][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto8
+[2025.05.25-03.52.14:245][430]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Box_18FFCFB1_Auto85A9C680D4E829E105C14C0BCB16E741D.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto8.uasset'
+[2025.05.25-03.52.14:245][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_1450A744] ([1] browsable assets)...
+[2025.05.25-03.52.14:245][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_1450A744]
+[2025.05.25-03.52.14:246][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto8
+[2025.05.25-03.52.14:246][430]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_1450A744_Auto8DF5942A64270E12D1D0CA89FE0D8FF51.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto8.uasset'
+[2025.05.25-03.52.14:246][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_026C8DAD] ([1] browsable assets)...
+[2025.05.25-03.52.14:246][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_026C8DAD]
+[2025.05.25-03.52.14:248][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto8
+[2025.05.25-03.52.14:248][430]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_026C8DAD_Auto8B7E79F844C8CB407DE40B694A2CAB750.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto8.uasset'
+[2025.05.25-03.52.14:248][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_79149C03] ([1] browsable assets)...
+[2025.05.25-03.52.14:248][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_79149C03]
+[2025.05.25-03.52.14:249][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto8
+[2025.05.25-03.52.14:249][430]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_79149C03_Auto89327605440E2306BD13F5E99B4F73103.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto8.uasset'
+[2025.05.25-03.52.14:249][430]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/satry/Boolean_E5FBC05F] ([1] browsable assets)...
+[2025.05.25-03.52.14:336][430]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/satry/Boolean_E5FBC05F.Boolean_E5FBC05F]
+[2025.05.25-03.52.14:336][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_E5FBC05F]
+[2025.05.25-03.52.14:339][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_E5FBC05F_Auto8
+[2025.05.25-03.52.14:339][430]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_E5FBC05F_Auto88031F906403C58C0DDFED0B56677973F.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_E5FBC05F_Auto8.uasset'
+[2025.05.25-03.52.14:339][430]LogFileHelpers: Auto-saving content packages took 0.095
+[2025.05.25-03.58.28:534][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8289.653320
+[2025.05.25-03.58.29:534][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.58.29:534][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8290.319336, Update Interval: 316.382935
+[2025.05.25-04.04.30:885][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8651.797852
+[2025.05.25-04.04.31:886][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.04.31:886][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8652.463867, Update Interval: 328.860138
+[2025.05.25-04.10.44:573][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9025.274414
+[2025.05.25-04.10.45:573][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.10.45:573][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9025.940430, Update Interval: 317.104401
+[2025.05.25-04.14.23:682][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.24:678][205]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.28:139][455]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.32:820][790]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.47:740][941]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.51:275][207]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.54:145][430]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.14.56:812][631]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.15.02:112][ 33]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.15.08:939][560]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.25-04.15.11:363][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.15.11:367][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.15.11:392][757]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2025.05.25-04.15.11:394][757]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.25-04.15.11:427][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.15.11:430][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003236s)
+[2025.05.25-04.15.11:430][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003270s)
+[2025.05.25-04.15.11:438][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.25-04.15.11:442][758]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.15.11:443][758]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2025.05.25-04.15.11:444][758]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.15.11:444][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.15.11:444][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.15.11:444][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.15.11:444][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.15.11:444][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.15.11:446][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.15.11:471][758]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.15.11:471][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.15.11:471][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.15.11:471][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.15.11:472][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.05.25-04.15.11:472][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.05.25-04.15.11:474][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.05.25-04.15.11:474][758]LogInit: FAudioDevice initialized with ID 18.
+[2025.05.25-04.15.11:474][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.05.25-04.15.11:474][758]LogAudio: Display: Audio Device (ID: 18) registered with world 'ryanshouse'.
+[2025.05.25-04.15.11:474][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.25-04.15.11:477][758]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.15.11:480][758]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.15.11
+[2025.05.25-04.15.11:480][758]LogWorld: Bringing up level for play took: 0.003260
+[2025.05.25-04.15.11:482][758]PIE: Server logged in
+[2025.05.25-04.15.11:483][758]PIE: Play in editor total start time 0.116 seconds.
+[2025.05.25-04.15.12:823][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.15.12:823][862]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.15.12:823][862]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.15.12:824][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.15.12:825][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.15.12:827][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.15.12:838][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.15.12:838][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.25-04.15.12:838][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.25-04.15.12:840][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.25-04.15.12:845][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.15.12:893][863]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.25-04.15.40:188][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.15.40:190][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ryanshouse" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.05.25-04.15.40:202][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ryanshouse_Auto9
+[2025.05.25-04.15.40:202][215]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/ryanshouse_Auto96E002B8048B29C9B82D5BE8E6DB1181D.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto9.umap'
+[2025.05.25-04.15.40:203][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ryanshouse' took 0.024
+[2025.05.25-04.15.40:203][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2025.05.25-04.16.50:836][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9391.376953
+[2025.05.25-04.16.51:136][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.16.51:136][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9391.665039, Update Interval: 324.386719
+[2025.05.25-04.17.11:813][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.17.11:818][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.17.11:818][709]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2025.05.25-04.17.11:819][709]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.05.25-04.17.11:846][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.17.11:850][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003226s)
+[2025.05.25-04.17.11:850][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003281s)
+[2025.05.25-04.17.11:860][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.25-04.17.11:863][710]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.17.11:865][710]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2025.05.25-04.17.11:866][710]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.17.11:866][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.17.11:866][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.17.11:866][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.17.11:866][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.17.11:866][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.17.11:868][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.17.11:895][710]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.17.11:895][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.17.11:895][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.17.11:895][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.17.11:896][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.05.25-04.17.11:896][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.05.25-04.17.11:898][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.05.25-04.17.11:898][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.05.25-04.17.11:898][710]LogInit: FAudioDevice initialized with ID 19.
+[2025.05.25-04.17.11:898][710]LogAudio: Display: Audio Device (ID: 19) registered with world 'ryanshouse'.
+[2025.05.25-04.17.11:898][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.25-04.17.11:901][710]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.17.11:905][710]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.17.11
+[2025.05.25-04.17.11:906][710]LogWorld: Bringing up level for play took: 0.004256
+[2025.05.25-04.17.11:910][710]PIE: Server logged in
+[2025.05.25-04.17.11:911][710]PIE: Play in editor total start time 0.094 seconds.
+[2025.05.25-04.17.13:922][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.13:922][872]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.17.13:922][872]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.17.13:923][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.17.13:925][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.17.13:928][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.17.13:939][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.13:939][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.25-04.17.13:939][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.25-04.17.13:940][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.25-04.17.13:945][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.17.13:996][873]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.05.25-04.17.15:445][993]Cmd: TRANSACTION UNDO
+[2025.05.25-04.17.15:445][993]LogEditorTransaction: Undo Edit Simulation Generates Hit Events
+[2025.05.25-04.17.16:031][  6]Cmd: TRANSACTION UNDO
+[2025.05.25-04.17.16:031][  6]LogEditorTransaction: Undo Edit Simulation Generates Hit Events
+[2025.05.25-04.17.50:736][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.50:773][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.50:808][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.50:843][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.17.56:372][ 36]LogSlate: Window 'Viewport 2' being destroyed
+[2025.05.25-04.17.56:379][ 36]LogSlate: Window 'Viewport 2' being destroyed
+[2025.05.25-04.19.16:098][657]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2025.05.25-04.19.16:429][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.25-04.19.16:438][657]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-04.20.30:332][144]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.20.30:342][144]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.20.30:370][144]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.20.30:370][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.20.30:412][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.25-04.20.33:133][373]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2025.05.25-04.20.33:179][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.25-04.20.35:054][464]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.20.35:061][464]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.20.35:090][464]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.20.35:091][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.20.35:121][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-04.20.38:662][763]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2025.05.25-04.20.38:701][763]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.25-04.21.01:666][664]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.21.01:672][664]LogSlate: Window 'SM_Stairs' being destroyed
+[2025.05.25-04.21.01:701][664]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.21.01:701][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.21.01:732][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-04.21.02:921][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.21.02:925][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.21.02:925][772]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2025.05.25-04.21.02:927][772]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.05.25-04.21.02:952][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.21.02:955][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2025.05.25-04.21.02:955][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003116s)
+[2025.05.25-04.21.02:964][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.25-04.21.02:969][773]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.21.02:970][773]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2025.05.25-04.21.02:971][773]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.21.02:971][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.21.02:971][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.21.02:971][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.21.02:971][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.21.02:971][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.21.02:973][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.21.02:997][773]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.21.02:997][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.21.02:997][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.21.02:997][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.21.02:998][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.05.25-04.21.02:998][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.05.25-04.21.03:000][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.05.25-04.21.03:000][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.05.25-04.21.03:000][773]LogInit: FAudioDevice initialized with ID 20.
+[2025.05.25-04.21.03:000][773]LogAudio: Display: Audio Device (ID: 20) registered with world 'ryanshouse'.
+[2025.05.25-04.21.03:000][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.25-04.21.03:002][773]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.21.03:006][773]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.21.03
+[2025.05.25-04.21.03:006][773]LogWorld: Bringing up level for play took: 0.003223
+[2025.05.25-04.21.03:008][773]PIE: Server logged in
+[2025.05.25-04.21.03:009][773]PIE: Play in editor total start time 0.085 seconds.
+[2025.05.25-04.21.18:351][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.21.18:351][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.21.18:351][ 84]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.21.18:352][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.21.18:355][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.21.18:357][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.21.18:368][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.21.18:368][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.25-04.21.18:368][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.25-04.21.18:370][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.25-04.21.18:376][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.25-04.21.18:427][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.05.25-04.21.19:618][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.21.19:621][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.21.19:651][182]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2025.05.25-04.21.19:652][182]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.05.25-04.21.19:676][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.21.19:679][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003117s)
+[2025.05.25-04.21.19:679][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003152s)
+[2025.05.25-04.21.19:689][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.25-04.21.19:691][183]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.21.19:692][183]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2025.05.25-04.21.19:692][183]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.21.19:692][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.21.19:692][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.21.19:692][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.21.19:692][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.21.19:692][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.21.19:695][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.21.19:719][183]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.21.19:720][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.21.19:720][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.21.19:720][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.21.19:720][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.05.25-04.21.19:720][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.05.25-04.21.19:722][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.05.25-04.21.19:722][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.05.25-04.21.19:722][183]LogInit: FAudioDevice initialized with ID 21.
+[2025.05.25-04.21.19:722][183]LogAudio: Display: Audio Device (ID: 21) registered with world 'ryanshouse'.
+[2025.05.25-04.21.19:722][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.25-04.21.19:724][183]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.21.19:728][183]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.21.19
+[2025.05.25-04.21.19:728][183]LogWorld: Bringing up level for play took: 0.003186
+[2025.05.25-04.21.19:731][183]PIE: Server logged in
+[2025.05.25-04.21.19:732][183]PIE: Play in editor total start time 0.11 seconds.
+[2025.05.25-04.21.29:451][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.21.29:451][979]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.21.29:451][979]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.21.29:451][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.21.29:455][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.21.29:457][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.21.29:467][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.21.29:467][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.25-04.21.29:467][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.25-04.21.29:470][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.25-04.21.29:474][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.25-04.21.29:531][980]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.05.25-04.21.43:308][ 31]Cmd: DELETE
+[2025.05.25-04.21.43:308][ 31]Cmd: ACTOR DELETE
+[2025.05.25-04.21.43:311][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-04.21.43:321][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.05.25-04.21.43:326][ 31]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.05.25-04.21.44:962][158]Cmd: EDIT COPY
+[2025.05.25-04.21.44:962][158]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.05.25-04.21.45:246][181]Cmd: EDIT PASTE
+[2025.05.25-04.22.14:594][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-04.22.14:594][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-04.22.14:595][373]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ryanshouse.ryanshouse:PersistentLevel.StaticMeshActor_96
+[2025.05.25-04.22.14:595][373]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ryanshouse.ryanshouse:PersistentLevel.StaticMeshActor_96
+[2025.05.25-04.22.16:959][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.25-04.22.16:965][556]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.05.25-04.22.16:970][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-04.22.16:970][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.05.25-04.22.16:971][556]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ryanshouse.ryanshouse:PersistentLevel.StaticMeshActor_97
+[2025.05.25-04.22.16:972][556]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ryanshouse.ryanshouse:PersistentLevel.StaticMeshActor_97
+[2025.05.25-04.22.58:794][612]Cmd: DELETE
+[2025.05.25-04.22.58:794][612]Cmd: ACTOR DELETE
+[2025.05.25-04.22.58:796][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-04.22.58:805][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.05.25-04.22.58:810][612]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.05.25-04.22.59:561][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9759.928711
+[2025.05.25-04.22.59:890][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.22.59:890][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9760.244141, Update Interval: 332.833649
+[2025.05.25-04.23.25:204][587]Cmd: TRANSACTION UNDO
+[2025.05.25-04.23.25:204][587]LogEditorTransaction: Undo Set Rotation
+[2025.05.25-04.23.27:819][771]Cmd: TRANSACTION UNDO
+[2025.05.25-04.23.27:819][771]LogEditorTransaction: Undo Set Scale
+[2025.05.25-04.24.22:958][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.24.22:962][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.24.22:962][350]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2025.05.25-04.24.22:964][350]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.05.25-04.24.22:998][351]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.24.23:001][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003320s)
+[2025.05.25-04.24.23:001][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003355s)
+[2025.05.25-04.24.23:010][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.25-04.24.23:018][351]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.24.23:018][351]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2025.05.25-04.24.23:019][351]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.24.23:019][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.24.23:019][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.24.23:019][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.24.23:019][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.24.23:019][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.24.23:022][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.24.23:046][351]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.24.23:046][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.24.23:046][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.24.23:046][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.24.23:046][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.05.25-04.24.23:046][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.05.25-04.24.23:048][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.05.25-04.24.23:048][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.05.25-04.24.23:048][351]LogInit: FAudioDevice initialized with ID 22.
+[2025.05.25-04.24.23:048][351]LogAudio: Display: Audio Device (ID: 22) registered with world 'ryanshouse'.
+[2025.05.25-04.24.23:048][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.25-04.24.23:051][351]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.24.23:054][351]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.24.23
+[2025.05.25-04.24.23:055][351]LogWorld: Bringing up level for play took: 0.003230
+[2025.05.25-04.24.23:057][351]PIE: Server logged in
+[2025.05.25-04.24.23:058][351]PIE: Play in editor total start time 0.096 seconds.
+[2025.05.25-04.24.31:090][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.24.31:090][  6]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.24.31:090][  6]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.24.31:091][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.24.31:094][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.24.31:095][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.24.31:107][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.24.31:107][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.25-04.24.31:107][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.25-04.24.31:108][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.25-04.24.31:113][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.24.31:177][  7]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.05.25-04.25.46:093][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.25.46:096][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.25.46:120][782]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2025.05.25-04.25.46:122][782]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.05.25-04.25.46:153][783]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.25.46:156][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003433s)
+[2025.05.25-04.25.46:156][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003464s)
+[2025.05.25-04.25.46:165][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.25-04.25.46:173][783]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.25.46:174][783]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2025.05.25-04.25.46:175][783]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.25.46:175][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.25.46:175][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.25.46:175][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.25.46:175][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.25.46:175][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.25.46:176][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.25.46:201][783]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.25.46:201][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.25.46:201][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.25.46:201][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.25.46:202][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.05.25-04.25.46:202][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.05.25-04.25.46:203][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.05.25-04.25.46:203][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.05.25-04.25.46:203][783]LogInit: FAudioDevice initialized with ID 23.
+[2025.05.25-04.25.46:203][783]LogAudio: Display: Audio Device (ID: 23) registered with world 'ryanshouse'.
+[2025.05.25-04.25.46:204][783]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.25-04.25.46:206][783]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.25.46:209][783]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.25.46
+[2025.05.25-04.25.46:209][783]LogWorld: Bringing up level for play took: 0.003299
+[2025.05.25-04.25.46:212][783]PIE: Server logged in
+[2025.05.25-04.25.46:213][783]PIE: Play in editor total start time 0.116 seconds.
+[2025.05.25-04.26.00:780][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.26.00:780][ 21]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.26.00:780][ 21]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.26.00:781][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.26.00:783][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.26.00:786][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.26.00:795][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.26.00:795][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.25-04.26.00:795][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.25-04.26.00:798][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.25-04.26.00:803][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.25-04.26.00:866][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.05.25-04.26.05:204][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.26.05:208][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.26.05:240][356]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2025.05.25-04.26.05:242][356]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.25-04.26.05:274][357]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.26.05:277][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003217s)
+[2025.05.25-04.26.05:277][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003251s)
+[2025.05.25-04.26.05:286][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.25-04.26.05:289][357]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.26.05:291][357]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2025.05.25-04.26.05:291][357]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.26.05:291][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.26.05:291][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.26.05:291][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.26.05:291][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.26.05:291][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.26.05:293][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.26.05:319][357]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.26.05:319][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.26.05:319][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.26.05:319][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.26.05:319][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.05.25-04.26.05:319][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.05.25-04.26.05:321][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.05.25-04.26.05:321][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.05.25-04.26.05:321][357]LogInit: FAudioDevice initialized with ID 24.
+[2025.05.25-04.26.05:321][357]LogAudio: Display: Audio Device (ID: 24) registered with world 'ryanshouse'.
+[2025.05.25-04.26.05:321][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.25-04.26.05:324][357]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.26.05:327][357]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.26.05
+[2025.05.25-04.26.05:328][357]LogWorld: Bringing up level for play took: 0.003313
+[2025.05.25-04.26.05:330][357]PIE: Server logged in
+[2025.05.25-04.26.05:331][357]PIE: Play in editor total start time 0.123 seconds.
+[2025.05.25-04.26.17:419][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.26.17:419][355]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.26.17:420][355]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.26.17:420][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.26.17:423][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.26.17:426][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.26.17:436][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.26.17:436][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.25-04.26.17:436][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.25-04.26.17:439][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.25-04.26.17:444][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.26.17:506][356]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.25-04.26.47:434][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.26.47:438][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.26.47:479][659]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2025.05.25-04.26.47:481][659]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.05.25-04.26.47:514][660]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.26.47:517][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003159s)
+[2025.05.25-04.26.47:517][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003192s)
+[2025.05.25-04.26.47:526][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-04.26.47:530][660]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.26.47:531][660]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2025.05.25-04.26.47:532][660]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.26.47:532][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.26.47:532][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.26.47:532][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.26.47:532][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.26.47:532][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.26.47:534][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.26.47:559][660]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.26.47:559][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.26.47:559][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.26.47:559][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.26.47:560][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.05.25-04.26.47:560][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.05.25-04.26.47:562][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.05.25-04.26.47:562][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.05.25-04.26.47:562][660]LogInit: FAudioDevice initialized with ID 25.
+[2025.05.25-04.26.47:562][660]LogAudio: Display: Audio Device (ID: 25) registered with world 'ryanshouse'.
+[2025.05.25-04.26.47:562][660]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.05.25-04.26.47:565][660]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.26.47:568][660]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.26.47
+[2025.05.25-04.26.47:569][660]LogWorld: Bringing up level for play took: 0.003278
+[2025.05.25-04.26.47:571][660]PIE: Server logged in
+[2025.05.25-04.26.47:572][660]PIE: Play in editor total start time 0.135 seconds.
+[2025.05.25-04.27.11:100][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.27.11:100][601]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.27.11:100][601]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.27.11:101][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.27.11:103][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.27.11:106][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.27.11:115][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.27.11:115][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.05.25-04.27.11:115][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.05.25-04.27.11:118][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.05.25-04.27.11:122][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.25-04.27.11:189][602]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.05.25-04.27.41:037][137]Cmd: EDIT COPY
+[2025.05.25-04.27.43:056][307]Cmd: EDIT PASTE
+[2025.05.25-04.28.13:512][887]Cmd: EDIT COPY
+[2025.05.25-04.28.13:830][914]Cmd: EDIT PASTE
+[2025.05.25-04.28.24:309][788]Cmd: EDIT COPY
+[2025.05.25-04.28.24:566][809]Cmd: EDIT PASTE
+[2025.05.25-04.28.38:807][926]Cmd: EDIT COPY
+[2025.05.25-04.28.39:877][  9]Cmd: EDIT PASTE
+[2025.05.25-04.29.08:751][245]Cmd: EDIT COPY
+[2025.05.25-04.29.09:015][266]Cmd: EDIT PASTE
+[2025.05.25-04.29.13:736][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10133.990234
+[2025.05.25-04.29.14:737][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.29.14:738][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10134.657227, Update Interval: 336.479370
+[2025.05.25-04.29.27:458][382]Cmd: EDIT COPY
+[2025.05.25-04.29.28:022][428]Cmd: EDIT PASTE
+[2025.05.25-04.29.40:994][419]Cmd: EDIT COPY
+[2025.05.25-04.29.41:369][450]Cmd: EDIT PASTE
+[2025.05.25-04.29.53:932][436]Cmd: EDIT COPY
+[2025.05.25-04.29.54:261][462]Cmd: EDIT PASTE
+[2025.05.25-04.31.27:912][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-04.31.27:919][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ryanshouse" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.05.25-04.31.27:930][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ryanshouse_Auto0
+[2025.05.25-04.31.27:930][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/ryanshouse_Auto08D1EA37B43FB106C1D6A29930EEFAAE1.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto0.umap'
+[2025.05.25-04.31.27:931][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ryanshouse' took 0.028
+[2025.05.25-04.31.27:931][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.05.25-04.31.27:931][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Box_18FFCFB1] ([1] browsable assets)...
+[2025.05.25-04.31.27:931][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Box_18FFCFB1]
+[2025.05.25-04.31.27:931][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/satry/Box_18FFCFB1" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-04.31.27:933][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto0
+[2025.05.25-04.31.27:933][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Box_18FFCFB1_Auto0E2D10B8E451CCF8690B9A19275399C7E.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto0.uasset'
+[2025.05.25-04.31.27:933][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_1450A744] ([1] browsable assets)...
+[2025.05.25-04.31.27:933][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_1450A744]
+[2025.05.25-04.31.27:934][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto0
+[2025.05.25-04.31.27:934][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_1450A744_Auto0C3CA116F42369D7F8BBCC287FA572430.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto0.uasset'
+[2025.05.25-04.31.27:935][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_026C8DAD] ([1] browsable assets)...
+[2025.05.25-04.31.27:935][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_026C8DAD]
+[2025.05.25-04.31.27:936][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto0
+[2025.05.25-04.31.27:936][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_026C8DAD_Auto0B9F151004EE635F49597C5B95DCF60A3.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto0.uasset'
+[2025.05.25-04.31.27:936][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_79149C03] ([1] browsable assets)...
+[2025.05.25-04.31.27:936][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_79149C03]
+[2025.05.25-04.31.27:936][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto0
+[2025.05.25-04.31.27:937][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_79149C03_Auto099A634E742E763866CAD23B672209F0D.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto0.uasset'
+[2025.05.25-04.31.27:937][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/SM_Stairs] ([1] browsable assets)...
+[2025.05.25-04.31.27:969][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs]
+[2025.05.25-04.31.27:970][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/SM_Stairs]
+[2025.05.25-04.31.27:972][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Props/SM_Stairs_Auto0
+[2025.05.25-04.31.27:972][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/SM_Stairs_Auto058CE095B43D984A2DBE91095D24AEE83.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/StarterContent/Props/SM_Stairs_Auto0.uasset'
+[2025.05.25-04.31.27:972][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_E5FBC05F] ([1] browsable assets)...
+[2025.05.25-04.31.27:972][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_E5FBC05F]
+[2025.05.25-04.31.27:973][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_E5FBC05F_Auto0
+[2025.05.25-04.31.27:973][745]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_E5FBC05F_Auto05A412BB44879A552D73F98A8B8AE394D.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_E5FBC05F_Auto0.uasset'
+[2025.05.25-04.31.27:974][745]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.05.25-04.31.56:353][848]Cmd: EDIT COPY
+[2025.05.25-04.31.56:600][868]Cmd: EDIT PASTE
+[2025.05.25-04.32.57:362][493]Cmd: TRANSACTION UNDO
+[2025.05.25-04.32.57:362][493]LogEditorTransaction: Undo Move Elements
+[2025.05.25-04.33.31:061][815]Cmd: DELETE
+[2025.05.25-04.33.31:061][815]Cmd: ACTOR DELETE
+[2025.05.25-04.33.31:065][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-04.33.31:074][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.25-04.33.31:082][815]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.25-04.33.40:012][431]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-04.33.40:015][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-04.33.40:037][431]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2025.05.25-04.33.40:040][431]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.05.25-04.33.40:069][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.33.40:074][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003840s)
+[2025.05.25-04.33.40:074][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.003874s)
+[2025.05.25-04.33.40:083][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-04.33.40:088][432]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-04.33.40:089][432]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2025.05.25-04.33.40:090][432]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-04.33.40:090][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-04.33.40:090][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-04.33.40:090][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-04.33.40:090][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-04.33.40:090][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-04.33.40:093][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-04.33.40:118][432]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-04.33.40:118][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-04.33.40:118][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-04.33.40:118][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-04.33.40:119][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.05.25-04.33.40:119][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.05.25-04.33.40:120][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.05.25-04.33.40:120][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.05.25-04.33.40:120][432]LogInit: FAudioDevice initialized with ID 26.
+[2025.05.25-04.33.40:120][432]LogAudio: Display: Audio Device (ID: 26) registered with world 'ryanshouse'.
+[2025.05.25-04.33.40:120][432]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.05.25-04.33.40:123][432]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-04.33.40:127][432]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-11.33.40
+[2025.05.25-04.33.40:127][432]LogWorld: Bringing up level for play took: 0.003610
+[2025.05.25-04.33.40:130][432]PIE: Server logged in
+[2025.05.25-04.33.40:131][432]PIE: Play in editor total start time 0.114 seconds.
+[2025.05.25-04.35.15:677][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.35.15:678][125]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-04.35.15:678][125]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-04.35.15:679][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.35.15:681][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-04.35.15:684][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-04.35.15:695][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-04.35.15:695][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.05.25-04.35.15:695][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.05.25-04.35.15:697][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.05.25-04.35.15:701][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.25-04.35.15:765][126]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.05.25-04.35.28:305][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10508.483398
+[2025.05.25-04.35.29:305][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-04.35.29:305][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10509.149414, Update Interval: 317.904602
+[2025.05.25-04.40.06:168][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-04.40.06:227][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ryanshouse" FILE="F:/Unreal Project/MyFirstGame_Satria/Content/ryanshouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.25-04.40.06:250][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.25-04.40.06:265][556]LogSavePackage: Moving output files for package: /Game/ryanshouse
+[2025.05.25-04.40.06:265][556]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/ryanshouse55C688E146D36132195A038A5648C1B8.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Content/ryanshouse.umap'
+[2025.05.25-04.40.06:272][556]LogFileHelpers: Saving map 'ryanshouse' took 0.046
+[2025.05.25-04.40.06:280][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.648 ms (total: 957.469 ms)
+[2025.05.25-04.40.06:343][556]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-04.40.06:343][556]LogContentValidation: Enabled validators:
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-04.40.06:343][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-04.40.06:343][556]AssetCheck: /Game/ryanshouse Validating asset
