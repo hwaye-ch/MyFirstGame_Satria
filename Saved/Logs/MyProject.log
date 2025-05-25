@@ -2378,3 +2378,140 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.25-02.58.08:572][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.25-02.58.08:572][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.25-02.58.08:572][733]AssetCheck: /Game/ryanshouse Validating asset
+[2025.05.25-03.02.29:135][ 30]Cmd: DELETE
+[2025.05.25-03.02.29:135][ 30]Cmd: ACTOR DELETE
+[2025.05.25-03.02.29:136][ 30]LogEditorActor: Deleted Actor: Brush
+[2025.05.25-03.02.29:145][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.05.25-03.02.29:159][ 30]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.25-03.02.45:132][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4946.192871
+[2025.05.25-03.02.46:465][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.02.46:465][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4947.192871, Update Interval: 326.714081
+[2025.05.25-03.04.44:024][620]Cmd: TRANSACTION UNDO
+[2025.05.25-03.04.44:024][620]LogEditorTransaction: Undo Set Location
+[2025.05.25-03.04.51:165][135]Cmd: TRANSACTION UNDO
+[2025.05.25-03.04.51:165][135]LogEditorTransaction: Undo Set Location
+[2025.05.25-03.05.49:183][246]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.25-03.08.08:511][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.25-03.08.08:514][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ryanshouse" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.05.25-03.08.08:521][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ryanshouse_Auto7
+[2025.05.25-03.08.08:521][580]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/ryanshouse_Auto7432F91494543D36D6279589131E473C0.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/ryanshouse_Auto7.umap'
+[2025.05.25-03.08.08:521][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ryanshouse' took 0.020
+[2025.05.25-03.08.08:522][580]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.05.25-03.08.08:522][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Box_18FFCFB1] ([1] browsable assets)...
+[2025.05.25-03.08.08:522][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Box_18FFCFB1]
+[2025.05.25-03.08.08:522][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/satry/Box_18FFCFB1" FILE="F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-03.08.08:522][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto7
+[2025.05.25-03.08.08:522][580]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Box_18FFCFB1_Auto7724B53F4407B32FBB298E28386F01F29.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Box_18FFCFB1_Auto7.uasset'
+[2025.05.25-03.08.08:524][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_1450A744] ([1] browsable assets)...
+[2025.05.25-03.08.08:524][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_1450A744]
+[2025.05.25-03.08.08:525][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto7
+[2025.05.25-03.08.08:525][580]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_1450A744_Auto70C6399924B255E02DB9F219443BC61E0.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_1450A744_Auto7.uasset'
+[2025.05.25-03.08.08:525][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_026C8DAD] ([1] browsable assets)...
+[2025.05.25-03.08.08:525][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_026C8DAD]
+[2025.05.25-03.08.08:527][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto7
+[2025.05.25-03.08.08:527][580]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_026C8DAD_Auto773EC3F7E49F631084A15AD9B47FA716A.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_026C8DAD_Auto7.uasset'
+[2025.05.25-03.08.08:527][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/satry/Boolean_79149C03] ([1] browsable assets)...
+[2025.05.25-03.08.08:527][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/satry/Boolean_79149C03]
+[2025.05.25-03.08.08:528][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto7
+[2025.05.25-03.08.08:528][580]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/Boolean_79149C03_Auto745E1A7804D670A5125CE50979F4546CB.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Saved/Autosaves/Game/_GENERATED/satry/Boolean_79149C03_Auto7.uasset'
+[2025.05.25-03.08.08:528][580]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.05.25-03.08.45:470][390]Cmd: TRANSACTION UNDO
+[2025.05.25-03.08.45:470][390]LogEditorTransaction: Undo Set Location
+[2025.05.25-03.08.46:627][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5307.734863
+[2025.05.25-03.08.46:926][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.08.46:926][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5308.022461, Update Interval: 340.093994
+[2025.05.25-03.09.09:258][201]Cmd: DUPLICATE
+[2025.05.25-03.09.09:258][201]Cmd: ACTOR DUPLICATE
+[2025.05.25-03.09.11:417][364]Cmd: TRANSACTION UNDO
+[2025.05.25-03.09.11:417][364]LogEditorTransaction: Undo Duplicate Elements
+[2025.05.25-03.09.12:456][413]Cmd: EDIT COPY
+[2025.05.25-03.09.12:772][437]Cmd: EDIT PASTE
+[2025.05.25-03.09.30:122][719]Cmd: TRANSACTION UNDO
+[2025.05.25-03.09.30:122][719]LogEditorTransaction: Undo Move Elements
+[2025.05.25-03.09.43:511][701]Cmd: DUPLICATE
+[2025.05.25-03.09.43:511][701]Cmd: ACTOR DUPLICATE
+[2025.05.25-03.09.44:652][786]Cmd: TRANSACTION UNDO
+[2025.05.25-03.09.44:652][786]LogEditorTransaction: Undo Duplicate Elements
+[2025.05.25-03.09.45:515][821]Cmd: EDIT COPY
+[2025.05.25-03.09.45:735][838]Cmd: EDIT PASTE
+[2025.05.25-03.10.10:277][649]Cmd: EDIT COPY
+[2025.05.25-03.10.11:092][711]Cmd: EDIT PASTE
+[2025.05.25-03.10.15:192][  1]Cmd: TRANSACTION UNDO
+[2025.05.25-03.10.15:192][  1]LogEditorTransaction: Undo Scale Elements
+[2025.05.25-03.13.20:974][809]Cmd: TRANSACTION UNDO
+[2025.05.25-03.13.20:974][809]LogEditorTransaction: Undo Set Location
+[2025.05.25-03.14.34:808][652]Cmd: EDIT COPY
+[2025.05.25-03.14.35:177][678]Cmd: EDIT PASTE
+[2025.05.25-03.14.57:116][364]Cmd: EDIT PASTE
+[2025.05.25-03.15.06:967][ 90]Cmd: EDIT COPY
+[2025.05.25-03.15.07:221][109]Cmd: EDIT PASTE
+[2025.05.25-03.15.07:769][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5688.834961
+[2025.05.25-03.15.08:076][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-03.15.08:076][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5689.126465, Update Interval: 347.094330
+[2025.05.25-03.16.01:719][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.25-03.16.01:723][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-03.16.01:757][264]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.05.25-03.16.01:759][264]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.05.25-03.16.01:792][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ryanshouse
+[2025.05.25-03.16.01:794][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002473s)
+[2025.05.25-03.16.01:794][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ryanshouse.ryanshouse to /Game/UEDPIE_0_ryanshouse.ryanshouse (0.002507s)
+[2025.05.25-03.16.01:804][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.25-03.16.01:806][265]LogChaosDD: Creating Chaos Debug Draw Scene for world ryanshouse
+[2025.05.25-03.16.01:807][265]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2025.05.25-03.16.01:808][265]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-03.16.01:808][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.25-03.16.01:808][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-03.16.01:808][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-03.16.01:808][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-03.16.01:808][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-03.16.01:810][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-03.16.01:836][265]LogAudioMixer: Display: Using Audio Hardware Device Mi Monitor (NVIDIA High Definition Audio)
+[2025.05.25-03.16.01:837][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-03.16.01:837][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-03.16.01:837][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-03.16.01:837][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.25-03.16.01:837][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.25-03.16.01:839][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.25-03.16.01:839][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.25-03.16.01:839][265]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.25-03.16.01:839][265]LogAudio: Display: Audio Device (ID: 13) registered with world 'ryanshouse'.
+[2025.05.25-03.16.01:839][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.25-03.16.01:842][265]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.25-03.16.01:844][265]LogWorld: Bringing World /Game/UEDPIE_0_ryanshouse.ryanshouse up for play (max tick rate 0) at 2025.05.25-10.16.01
+[2025.05.25-03.16.01:844][265]LogWorld: Bringing up level for play took: 0.002839
+[2025.05.25-03.16.01:847][265]PIE: Server logged in
+[2025.05.25-03.16.01:848][265]PIE: Play in editor total start time 0.125 seconds.
+[2025.05.25-03.16.37:358][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-03.16.37:358][194]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ryanshouse
+[2025.05.25-03.16.37:358][194]LogWorld: UWorld::CleanupWorld for ryanshouse, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-03.16.37:359][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-03.16.37:362][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-03.16.37:363][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-03.16.37:374][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-03.16.37:374][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.25-03.16.37:374][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.25-03.16.37:375][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.25-03.16.37:381][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.25-03.16.37:443][195]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.25-03.16.38:570][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-03.16.38:635][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ryanshouse" FILE="F:/Unreal Project/MyFirstGame_Satria/Content/ryanshouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.25-03.16.38:655][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.25-03.16.38:666][276]LogSavePackage: Moving output files for package: /Game/ryanshouse
+[2025.05.25-03.16.38:666][276]LogSavePackage: Moving 'F:/Unreal Project/MyFirstGame_Satria/Saved/ryanshouse7504E3184734F978FD409896A2B343EB.tmp' to 'F:/Unreal Project/MyFirstGame_Satria/Content/ryanshouse.umap'
+[2025.05.25-03.16.38:671][276]LogFileHelpers: Saving map 'ryanshouse' took 0.037
+[2025.05.25-03.16.38:684][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.035 ms (total: 586.543 ms)
+[2025.05.25-03.16.38:734][276]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-03.16.38:735][276]LogContentValidation: Enabled validators:
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-03.16.38:735][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-03.16.38:735][276]AssetCheck: /Game/ryanshouse Validating asset
