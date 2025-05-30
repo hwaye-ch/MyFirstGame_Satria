@@ -28,16 +28,17 @@
 
 # Editor saved data
 /Saved/
+/Saved/Autosaves/
+/Saved/Logs/
+/Saved/Backup/
 
 # Optional: Ignore local config (per user editor settings, not project settings)
 /Config/WindowsEditor/
 /Config/MacEditor/
 /Config/LinuxEditor/
 
-# Ignore autosaves and logs
-/Saved/Autosaves/
-/Saved/Logs/
-/Saved/Backup/
+# Content generated folder (from Modeling Tools, Boolean, etc.)
+/Content/_GENERATED/
 
 # Compiled object files
 *.o
