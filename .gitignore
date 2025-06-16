@@ -83,3 +83,6 @@ Build/*/**
 # Cache or temp folders from modeling tools (optional, if importing assets)
 *_fbm/
 *.fbx.lock
+
+# Export Materials
+/Bounce that Lingers/
