@@ -39,6 +39,7 @@
 
 # Content generated folder (from Modeling Tools, Boolean, etc.)
 /Content/_GENERATED/
+/Content/_GENERATED/satry/
 
 # Compiled object files
 *.o
