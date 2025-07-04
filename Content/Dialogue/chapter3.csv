@@ -1,8 +1,8 @@
 Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
 ch3_intro,Hmm ckckck,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
 ch3_welcome,Sampah ini… sudah menumpuk lagi.,ch3_welcome_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
-ch3_shock_0,Hah....,ch3_shock_1,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
-ch3_shock_1,Tidak mungkin!,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
+ch3_shock_0,Kosong...?!,ch3_shock_1,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
+ch3_shock_1,Tapi… tadi jelas-jelas dari sini...,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
 ch3_janitor,Lo ngapain anjirrr,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,Janitor,,
 ch3_tired_0,Dahlah cape bgt wkwk,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
 ch3_wondering,!!!,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
