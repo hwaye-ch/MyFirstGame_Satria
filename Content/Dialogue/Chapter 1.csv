@@ -10,7 +10,7 @@ ch1_wrongway1,Tidak. Aku tidak suka melewati jalan itu.,ch1_wrongway2,/Script/En
 ch1_wrongway2,Bukan itu jalanan yang biasa aku lalui,ch1_wrongway3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
 ch1_wrongway3,Salah arah.,ch1_wrongway4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
 ch1_wrongway4,Aku tidak ingin lewat jalan itu,ch1_wrongway1,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_sarah,"Sabtu ini datang, ya. Kita sudah lama nggak ngobrol",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Sarah,,
+ch1_sarah,"Sabtu ini datang, ya. Kita sudah lama nggak ngobrol",ch1_sarah,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Sarah,,
 ch1_belajar,"Setelah bekerja seharian, sekarang harus mengerjakan tugas?",ch1_belajar2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
 ch1_belajar2,Aku harus lulus tepat waktu. Beasiswaku hanya berlaku sampai semester delapan.,ch1_belajar3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
 ch1_belajar3,Tidak ada ruang untuk gagal.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
