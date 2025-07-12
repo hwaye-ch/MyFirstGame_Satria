@@ -1,0 +1,8 @@
+Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
+ch6_intro_0,Suara itu lagi!,ch6_intro_1,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',False,,,
+ch6_intro_1,Shibal ihhh! Kesel kesel kesel kesel kesel kesel,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',True,,,
+ch6_bus1,"Dulu aku pikir, setelah semua yang terjadi... aku bakal terbiasa dengan rasa kehilangan",ch6_bus2,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',False,,,
+ch6_bus2,"Tapi ternyata, yang datang bukan ketenangan",ch6_bus3,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',False,,,
+ch6_bus3,Cuma kekosongan yang makin jadi-jadi,ch6_bus4,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',False,,,
+ch6_bus4,"Sekarang aku nggak yakin lagi... apakah aku benar-benar hidup,",ch6_bus5,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',False,,,
+ch6_bus5,atau cuma numpang lewat di hari-hari yang sama,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter6_Dialogue.Chapter6_Dialogue',True,,,
