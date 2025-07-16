@@ -6,4 +6,6 @@ ch7_rontgen_4,Satu langkah yang salah… dan semuanya bisa retak lagi,ch7_rontge
 ch7_rontgen_5,"Basket itu satu-satunya yang tersisa… dari mereka, dan dari diriku sendiri",ch7_rontgen_6,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
 ch7_rontgen_6,Mungkin mereka benar,ch7_rontgen_7,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
 ch7_rontgen_7,Mungkin... memang waktunya aku melepaskan,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,
-,,,,,,,
+ch7_jordan_1,Aku selalu mengaguminya,ch7_jordan_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
+ch7_jordan_2,"Cara dia bermain, cara dia membawa dirinya di lapangan",ch7_jordan_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
+ch7_jordan_3,"Tenang, tajam, seolah tidak pernah goyah",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,
