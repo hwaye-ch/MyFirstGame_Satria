@@ -27,7 +27,7 @@ ch2_ryan7,"Terima kasih, tapi... aku masih ada yang harus dikerjakan",ch2_mikey9
 ch2_mikey9,"Oh, oke... ya sudah",ch2_ryan8,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Michael,,
 ch2_ryan8,"Kalau begitu, aku pamit dulu",ch2_mikey10,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
 ch2_mikey10,"Baiklah. Sampai jumpa lagi, Ryan!",ch2_mikey10,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,Michael,,
-ch2_intermezo,Kenalkan namaku Michael. Panggil saja Mikey,ch2_intermezo2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Michael,,
+ch2_intermezo,Kenalkan namaku Michael,ch2_intermezo2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Michael,,
 ch2_intermezo2,Namaku Ryan,ch2_intermezo3,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
 ch2_intermezo3,Hi Ryan! Senang berkenalan denganmu!,ch2_ryan4,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Michael,,
 ch2_daydream,Andai aku masih punya tempat untuk pulang seperti itu…,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,

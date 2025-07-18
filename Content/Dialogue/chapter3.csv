@@ -20,7 +20,7 @@ ch3_deadline_2,"Deadline makin dekat, dan aku masih terjebak di awal",None,/Scri
 ch3_disturbed,"Belum juga sempat duduk, sudah disambut suara bola lagi.",ch3_disturbed2,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
 ch3_disturbed2,Apa dunia sedang hobi menguji kewarasanku malam ini?,ch3_disturbed3,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
 ch3_disturbed3,"Kalau ini caranya, aku akan cari tahu—dan semoga saja bukan hal bodoh lagi.",ch3_disturbed3,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
-ch3_frommike,Suaranya dari kamar 208...? Itu kan kamarnya Mikey,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
+ch3_frommike,Suaranya dari kamar 208...? Itu kan kamarnya Michael,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',true,,,
 ch3_janiryan1,Sedang apa kamu di sini?,ch3_ryanjani1,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,Janitor,,
 ch3_ryanjani1,"Astaga, Pak! Bikin kaget saja...",ch3_janiryan2,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,,,
 ch3_janiryan2,"Aku sudah memanggil dari tadi, tahu?",ch3_ryanjani2,/Script/Engine.DataTable'/Game/Dialogue/Chapter3_Dialogue.Chapter3_Dialogue',false,Janitor,,
