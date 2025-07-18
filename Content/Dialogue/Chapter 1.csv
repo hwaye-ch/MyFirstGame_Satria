@@ -21,3 +21,4 @@ ch1_roomno3,Aku ingin pemandangan yang lebih baik,None,/Script/Engine.DataTable'
 ch1_dinner,Makan malam sendirian seperti ini… lama-lama terasa lebih sunyi daripada yang kukira.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
 ch1_shower,"Rasanya aku hanya ingin langsung tidur,",ch1_shower2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
 ch1_shower2,tapi masih ada tugas yang harus kuselesaikan malam ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
+ch1_blocked,Rumahku bukan ke arah situ,ch1_blocked,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
