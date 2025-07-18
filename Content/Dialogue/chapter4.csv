@@ -1,0 +1,10 @@
+Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
+ch4_disturbed,Yang benar saja...,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',true,,,
+ch4_gonnacheck,Baiklah. Mari kita lihat siapa yang punya waktu luang sebanyak ini di neraka kecil ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',true,,,
+ch4_peep_0,…Tentu saja. Selalu seperti ini,ch4_peep_1,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',false,,,
+ch4_peep_1,Suara tanpa wujud. Gangguan tanpa alasan...,ch4_peep_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',false,,,
+ch4_peep_2,Hidup yang makin jauh dari kata waras,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',true,,,
+ch4_waken_0,Ini… makin nggak masuk akal,ch4_waken_1,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',false,,,
+ch4_waken_1,Aku makin nggak masuk akal,ch4_waken_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',false,,,
+ch4_waken_2,Apa ini karena aku berhenti minum obat? ,ch4_waken_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',false,,,
+ch4_waken_3,Harusnya aku nggak sekeras kepala ini…,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter4_Dialogue.Chapter4_Dialogue',true,,,
