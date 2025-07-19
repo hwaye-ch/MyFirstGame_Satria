@@ -33,4 +33,4 @@ ch2_intermezo3,Hi Ryan! Senang berkenalan denganmu!,ch2_ryan4,/Script/Engine.Dat
 ch2_daydream,Andai aku masih punya tempat untuk pulang seperti itu…,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
 ch2_postmikey,Andai aku masih punya tempat untuk pulang seperti itu…,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
 ch2_beforeenter,Aku punya hal yang lebih penting daripada makan malam hangat dan obrolan ringan,ch2_beforeenter2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
-ch2_beforeenter2,Tugas ini tidak akan selesai dengan sendirinya,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
+ch2_beforeenter2,Tugas kuliahku tidak akan selesai dengan sendirinya,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,

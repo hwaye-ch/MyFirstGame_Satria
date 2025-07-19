@@ -1,7 +1,7 @@
 Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
 ch1_intro,"Hari ini benar-benar menguras tenaga... Aku hanya ingin makan, mandi, lalu tidur.",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
 ch1_welcome,Akhirnya sampai juga...,ch1_welcome2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,ついに来たか…
-ch1_welcome2,Masak pun rasanya berat. Makanan beku saja cukup—aku tidak punya tenaga untuk repot malam ini.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,料理をするのも億劫に感じる。冷凍食品でいいや。今夜はやる気力がない。
+ch1_welcome2,Masak pun rasanya berat. Makanan beku saja cukup... aku tidak punya tenaga untuk repot malam ini.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,料理をするのも億劫に感じる。冷凍食品でいいや。今夜はやる気力がない。
 ch1_mandi,Aku harus mandi... Badan ini terasa seperti rongsokan,ch1_mandi2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
 ch1_mandi2,Sedikit air hangat mungkin bisa membantu menyegarkan pikiranku,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
 ch1_photo,Setiap kali melihat foto ini... rasanya sulit untuk tidak mengingat malam itu,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
