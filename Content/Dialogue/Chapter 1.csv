@@ -1,24 +1,32 @@
-Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
-ch1_intro,"Hari ini benar-benar menguras tenaga... Aku hanya ingin makan, mandi, lalu tidur.",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_welcome,Akhirnya sampai juga...,ch1_welcome2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,ついに来たか…
-ch1_welcome2,Masak pun rasanya berat. Makanan beku saja cukup... aku tidak punya tenaga untuk repot malam ini.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,料理をするのも億劫に感じる。冷凍食品でいいや。今夜はやる気力がない。
-ch1_mandi,Aku harus mandi... Badan ini terasa seperti rongsokan,ch1_mandi2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_mandi2,Sedikit air hangat mungkin bisa membantu menyegarkan pikiranku,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_photo,Setiap kali melihat foto ini... rasanya sulit untuk tidak mengingat malam itu,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_capek,Aku masih harus mengerjakan tugas malam ini...,ch1_capek,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_wrongway1,Tidak. Aku tidak suka melewati jalan itu.,ch1_wrongway2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_wrongway2,Bukan itu jalanan yang biasa aku lalui,ch1_wrongway3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_wrongway3,Salah arah.,ch1_wrongway4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_wrongway4,Aku tidak ingin lewat jalan itu,ch1_wrongway1,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_sarah,"Sabtu ini datang, ya. Kita sudah lama nggak ngobrol",ch1_sarah,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Sarah,,
-ch1_belajar,"Setelah bekerja seharian, sekarang harus mengerjakan tugas?",ch1_belajar2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_belajar2,Aku harus lulus tepat waktu. Beasiswaku hanya berlaku sampai semester delapan.,ch1_belajar3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_belajar3,Tidak ada ruang untuk gagal.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_janitor_greeting,Selamat malam,ch1_janitor_greeting,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Janitor,,
-ch1_roomno,Aku tinggal di unit 201 sekarang,ch1_roomno2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_roomno2,Entah sejak kapan pindah dari 208... rasanya sudah lama,ch1_roomno3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_roomno3,Aku ingin pemandangan yang lebih baik,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_dinner,Makan malam sendirian seperti ini… lama-lama terasa lebih sunyi daripada yang kukira.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_shower,"Rasanya aku hanya ingin langsung tidur,",ch1_shower2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,
-ch1_shower2,tapi masih ada tugas yang harus kuselesaikan malam ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
-ch1_blocked,Rumahku bukan ke arah situ,ch1_blocked,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,
+Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP,Actionable?
+ch1_intro,"Hari ini benar-benar menguras tenaga... Aku hanya ingin makan, mandi, lalu tidur.",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_welcome,Akhirnya sampai juga...,ch1_welcome2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,ついに来たか…,false
+ch1_welcome2,Masak pun rasanya berat. Makanan beku saja cukup... aku tidak punya tenaga untuk repot malam ini.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,料理をするのも億劫に感じる。冷凍食品でいいや。今夜はやる気力がない。,false
+ch1_mandi,Aku harus mandi... Badan ini terasa seperti rongsokan,ch1_mandi2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_mandi2,Sedikit air hangat mungkin bisa membantu menyegarkan pikiranku,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_photo,Setiap kali melihat foto ini... rasanya sulit untuk tidak mengingat malam itu,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_capek,Aku masih harus mengerjakan tugas malam ini...,ch1_capek,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_wrongway1,Tidak. Aku tidak suka melewati jalan itu.,ch1_wrongway2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_wrongway2,Bukan itu jalanan yang biasa aku lalui,ch1_wrongway3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_wrongway3,Salah arah.,ch1_wrongway4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_wrongway4,Aku tidak ingin lewat jalan itu,ch1_wrongway1,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_sarah,"Sabtu ini datang, ya. Kita sudah lama nggak ngobrol",ch1_sarah,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Sarah,,,false
+ch1_belajar,"Setelah bekerja seharian, sekarang harus mengerjakan tugas?",ch1_belajar2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_belajar2,Aku harus lulus tepat waktu. Beasiswaku hanya berlaku sampai semester delapan.,ch1_belajar3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_belajar3,Tidak ada ruang untuk gagal.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_janitor_greeting,Selamat malam,ch1_janitor_greeting,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,Janitor,,,false
+ch1_roomno,Aku tinggal di unit 201 sekarang,ch1_roomno2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_roomno2,Entah sejak kapan pindah dari 208... rasanya sudah lama,ch1_roomno3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_roomno3,Aku ingin pemandangan yang lebih baik,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_dinner,Makan malam sendirian seperti ini… lama-lama terasa lebih sunyi daripada yang kukira.,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_shower,"Rasanya aku hanya ingin langsung tidur,",ch1_shower2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_shower2,tapi masih ada tugas yang harus kuselesaikan malam ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_blocked,Rumahku bukan ke arah situ,ch1_blocked,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_customer,Maaf membuatmu menunggu...,ch1_customer2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer2,Ada tambahan lain?,ch1_customer3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer3,Tidak ada,ch1_customer4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,Customer,,,false
+ch1_customer4,.,ch1_customer5,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer5,..,ch1_customer6,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer6,Baik totalnya $1.5,ch1_customer7,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,True
+ch1_customer7,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+,,,,,,,,
