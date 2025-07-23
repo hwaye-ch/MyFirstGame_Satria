@@ -22,11 +22,16 @@ ch1_dinner,Makan malam sendirian seperti ini… lama-lama terasa lebih sunyi dar
 ch1_shower,"Rasanya aku hanya ingin langsung tidur,",ch1_shower2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
 ch1_shower2,tapi masih ada tugas yang harus kuselesaikan malam ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
 ch1_blocked,Rumahku bukan ke arah situ,ch1_blocked,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
-ch1_customer,Maaf membuatmu menunggu...,ch1_customer2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
-ch1_customer2,Ada tambahan lain?,ch1_customer3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
-ch1_customer3,Tidak ada,ch1_customer4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,Customer,,,false
-ch1_customer4,.,ch1_customer5,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
-ch1_customer5,..,ch1_customer6,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
-ch1_customer6,Baik totalnya $1.5,ch1_customer7,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,True
-ch1_customer7,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
-,,,,,,,,
+ch1_customer,Maaf membuatmu menunggu...,ch1_customer_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer_2,Ada tambahan lain?,ch1_customer_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer_3,Tidak ada,ch1_customer_4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,Customer,,,false
+ch1_customer_4,.,ch1_customer_5,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer_5,..,ch1_customer_6,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,false
+ch1_customer_6,Baik totalnya $1.5,ch1_customer_7,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,True
+ch1_customer_7,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,false
+ch1_customer2,Ada tambahan lain?,ch1_customer2_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,
+ch1_customer2_2,Tidak,ch1_customer2_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,Customer,,,
+ch1_customer2_3,.,ch1_customer2_4,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,
+ch1_customer2_4,..,ch1_customer2_5,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,
+ch1_customer2_5,Totalnya $3,ch1_customer2_6,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,True
+ch1_customer2_6,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
