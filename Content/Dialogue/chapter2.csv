@@ -34,3 +34,6 @@ ch2_daydream,Andai aku masih punya tempat untuk pulang seperti itu…,None,/Scri
 ch2_postmikey,Andai aku masih punya tempat untuk pulang seperti itu…,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
 ch2_beforeenter,Aku punya hal yang lebih penting daripada makan malam hangat dan obrolan ringan,ch2_beforeenter2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
 ch2_beforeenter2,Tugas kuliahku tidak akan selesai dengan sendirinya,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
+ch2_sepi,"Lumayan sepi sore ini, pas buat makan sebentar",ch2_sepi_2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
+ch2_sepi_2,"Kalau makan sekarang, nanti di rumah tinggal kerjakan tugas",ch2_sepi_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,
+ch2_sepi_3,Kadang rasanya enak juga kalau toko lagi tenang begini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,
